@@ -18,7 +18,7 @@
     },
     "break",
 
-    "modules" [
+    "modules": [
     {
       "type": "user",
       "key": "USER",
