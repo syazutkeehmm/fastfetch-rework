@@ -12,11 +12,11 @@
 
   "display": {
     "seperator": " ",
-    "color" = {
-      "key" = "#ffcee3",
-      "output": "#ffcee3",
+    "color" : {
+      "key" : "#ffcee3" ,
+      "output": "#ffcee3" ,
     },
-    "break",
+    "break"
 
     "modules": [
     {
